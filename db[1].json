@@ -1,0 +1,18 @@
+{
+  "CZYCHY": [
+    {
+      "cardname":"Itzy Chaeryeong" ,
+      "cardgroup":"ITZY" ,
+      "cardrarity":"COMMON" ,
+      "cardimage":"https://media.discordapp.net/attachments/905659282131918888/908720251703820318/itzy_common_1.jpg?width=414&height=585"
+    }
+  ],
+  "CZYYUN": [
+    {
+      "cardname":"Itzy Yuna" ,
+      "cardgroup":"ITZY" ,
+      "cardrarity":"COMMON" ,
+      "cardimage":"https://media.discordapp.net/attachments/905659282131918888/908720578498813982/itzy_common_2_1.jpg?width=414&height=585"
+    }
+  ]
+}
